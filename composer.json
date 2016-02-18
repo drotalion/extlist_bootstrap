@@ -18,10 +18,7 @@
   "autoload": {
     "psr-4": {
       "Drotalion\\Extlist_bootstrap\\": "Classes"
-    },
-    "classmap": [
-      "Classes/"
-    ]
+    }
   },
   "replace": {
     "extlist_bootstrap": "self.version"
